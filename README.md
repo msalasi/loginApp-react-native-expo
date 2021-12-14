@@ -1,4 +1,4 @@
-Login basico, no funcional copn React-Native y Expo
+Login basico, no funcional con React-Native y Expo
 
 Ejecutar:
     - Clonar repo
